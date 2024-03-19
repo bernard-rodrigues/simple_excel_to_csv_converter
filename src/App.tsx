@@ -1,3 +1,4 @@
+import "./utils/Firebase"
 import { ChangeEvent, useState } from "react";
 import { Button } from "./components/Button"
 import { generateCSV } from "./utils/Converter";
